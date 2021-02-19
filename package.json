@@ -1,0 +1,17 @@
+{
+  "name": "scriptloader",
+  "version": "0.0.1",
+  "description": "Dynamic javascript load on web browser",
+  "main": "ScriptLoader.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sters/scriptloader-js.git"
+  },
+  "author": "sters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sters/scriptloader-js/issues"
+  },
+  "homepage": "https://github.com/sters/scriptloader-js#readme"
+}
